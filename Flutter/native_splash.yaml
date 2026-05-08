@@ -1,0 +1,13 @@
+flutter_native_splash:
+  ios: true
+  android: true
+  web: true
+  color: "#ffffff"
+  background_image: assets/images/shadw.png
+  image: assets/images/robot_happy.png
+
+  android_12:
+    #  background_image: assets/images/shadw.png
+    #  image: assets/images/robot_happy.png
+      color: "#ffffff"
+
